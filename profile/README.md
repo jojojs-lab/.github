@@ -3,6 +3,8 @@
   
   # JoJo Js Lab
   
-  The Anthem of man is the Anthem of courage.
+  _"The Anthem of man is the Anthem of courage."_
+  
+  _— JoJo's Bizarre Adventure_
 
 </div>
